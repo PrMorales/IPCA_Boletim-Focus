@@ -1,0 +1,5 @@
+Plaintext
+pandas
+requests
+plotly
+seaborn
